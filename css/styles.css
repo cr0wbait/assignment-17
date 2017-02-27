@@ -6,6 +6,6 @@
 
 }
 
-.congressTile {
+body #app-container .congressTile {
   background-color: aquamarine;
 }
